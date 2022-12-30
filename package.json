@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jujuju0924/typescript-try/issues"
   },
-  "homepage": "https://github.com/jujuju0924/typescript-try#readme"
+  "homepage": "https://github.com/jujuju0924/typescript-try#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
 }
